@@ -1,4 +1,4 @@
-# vertexgenai
+# vertexgenai :black_nib:
 vertexgenai : #vertex_ai #gen_ai
 
 ## In Progress..
